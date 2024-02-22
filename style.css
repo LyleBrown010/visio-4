@@ -41,6 +41,11 @@ svg {
     margin-bottom: 100px;
 }
 
+@media screen and (max-width: 800px){
+    .carousel{
+        margin-bottom: 30px;
+    }
+}
 .active-bullet {
     transform: rotate(-30deg);
     margin-right: 8px;
